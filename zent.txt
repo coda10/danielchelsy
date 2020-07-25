@@ -12,3 +12,6 @@ Although that way may not be obvious at first unless you're Dutch.
 Although never is often better than *right* now.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
+Simple is better than complex.
+Although practicality beats purity.
+Although never is often better than right now
